@@ -6,8 +6,8 @@
 
 ## Identificação
 
-- **Nome**: <mark>`<preencher>`</mark>
-- **Cartão UFRGS:** <mark>`<preencher>`</mark>
+- **Nome**: Vítor Santana Feijó
+- **Cartão UFRGS:** 588403
 
 ## Dados utilizados
 
@@ -17,8 +17,8 @@
 > - Se houver mais de um conjunto de dados, liste todos separadamente.
 > - Para cada conjunto de dados, inclua também uma **descrição curta** explicando os dados.
 
-1. **Dataset 1**: <mark>`<link>`</mark>
-    * **Descrição curta**: <mark>`<preencher>`</mark>
+1. **Dataset 1**: Dados do Brapci disponiveis em [link](https://cedap.ufrgs.br/xmlui/handle/20.500.11959/1189)
+    * **Descrição curta**: São dados de pesquisas da ufrgs, abrange varios artigos postados pela ufrgs de diversos tópicos incluindo titulo, fonte, ano, resumo, n° de paginas, etc. 
 2. **Dataset 2**: <mark>`<link>`</mark>
     * **Descrição curta**: <mark>`<preencher>`</mark>
 3. ...
@@ -29,8 +29,8 @@
 >
 > - Indique abaixo onde está, dentro deste repositório, o código-fonte usado para gerar a visualização.
 
-- **Arquivo principal**: <mark>`<preencher>`</mark>
-- **Arquivos complementares (se houver)**: <mark>`<preencher>`</mark>
+- **Arquivo principal**: [notebook](vis\vis.ipynb)
+- **Arquivos complementares (se houver)**: [dataset em toml](datasets\Brapci-2019-03-26.toml), [conversor para toml](datasets\converter\converter.py)
 
 ## Imagem da visualização gerada
 
